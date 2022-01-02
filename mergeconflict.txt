@@ -1,2 +1,6 @@
 mergr conflict example
+<<<<<<< HEAD
 edited by pavan in local
+=======
+editing in browser
+>>>>>>> a8b9b4fa47cd53ae9ba84066f2ea697010a1c4b5
